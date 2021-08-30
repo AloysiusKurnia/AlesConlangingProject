@@ -1,9 +1,10 @@
-# Conlang Project
-Conlang created by Ale. Everything marked with **(\*)** is unconfirmed.
+# Unnamed Conlang Project
+Conlang created by Ale.
 
 ## Phonology
-### Sound Chart
-Consonants
+This chapter describes what sounds can be formed in this language.
+
+#### Consonants
 
 |             | Labial | Dental | Alveolar | Palatal | Velar  | Glottal |
 |-------------|--------|--------|----------|---------|--------|---------|
@@ -13,26 +14,31 @@ Consonants
 | Approximant |        |        | l        | j ⟨y⟩   | w      |         |
 | Trill       |        |        | r        |         |        |         |
 
-Vowels
+#### Vowels
+
 |       | Front   | Central | Back |
 |-------|---------|---------|------|
 | Close | i       |         | u    |
 | Mid   | e~ɛ ⟨é⟩ | ə ⟨e⟩   | o    |
 | Open  |         | a       |      |
 
-### Phonotactics
-
+#### Phonotactics
 - The syllable structure is CCVC.
-- ' and ng can only occur in the coda.
-- In the complex onset, s always comes before a stop. All stops are valid for this.
-- dz can occur in complex onsets after a stop.
-- Stop + approximant and trill can be in the complex onset.
+- Coda can be any consonant.
+- Onset cannot contain ⟨'⟩ and ⟨ng⟩.
+- These are the only allowed complex onset. Note that "any stop" excludes ⟨'⟩.
+    - ⟨s⟩ + any stop,
+    - any stop + ⟨z⟩,
+    - any stop + any approximant,
+    - any stop + ⟨r⟩.
 
 ## Morphology
 
-(Coming soon!)
+This chapter describes how words are formed from their smaller unit (morpheme). It's coming soon!
 
 ## Syntax
+
+This chapter describes how sentences are formed to create a meaning.
 
 - Subject-Verb-Object word order
 - (More coming soon!)
@@ -40,28 +46,30 @@ Vowels
 ## Lexicon
 Some sample words.
 
-### Pronouns
+#### Pronouns
 | Position    |      |
 |-------------|------|
-| 1st sg      | a'   |
-| 1st pl      | zo'u |
-| 2nd sg      | dé   |
-| 2nd pl      | igzi |
+| 1st sg.     | a'   |
+| 1st pl.     | zo'u |
+| 2nd sg.     | dé   |
+| 2nd pl.     | igzi |
 | 3rd anim.   | nor  |
 | 3rd inanim. | gu   |
-| 3rd pl      | égér |
+| 3rd pl.     | égér |
 
-### Nouns
+#### Sample Nouns
 | English |        |
 |---------|--------|
 | animal  | a'gédo |
 | person  | ha'géo |
 | rock    | boa    |
 
-### Verbs
+#### Sample Verbs
 | English |       |
 |---------|-------|
 | to love | a'una |
 | to sit  | ire   |
 | to see  | da'   |
 | to give | lago  |
+
+See more at this [vocabulary list](vocabulary.md).
