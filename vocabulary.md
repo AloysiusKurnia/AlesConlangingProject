@@ -22,13 +22,14 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | there   |   |
 
 ## Question markers
-| English |   |
-|---------|---|
-| who     |   |
-| what    |   |
-| where   |   |
-| when    |   |
-| how     |   |
+| English  |        |
+|----------|--------|
+| who      | ha'ga' |
+| what     | béda'  |
+| where    | ozagé  |
+| when     | angza  |
+| how      | doja   |
+| how many | obén   |
 
 ## Quantity
 | English |     |
@@ -45,6 +46,11 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | four    |     |
 | five    |     |
 
+## Conversational Words
+| English |        |
+|---------|--------|
+| thanks  | a'doma |
+
 ## Adjectives
 | English            |      |
 |--------------------|------|
@@ -60,7 +66,7 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | warm               |      |
 | cold               |      |
 | full               |      |
-| new                |      |
+| new                | gimo |
 | old                |      |
 | good               |      |
 | bad                |      |
@@ -154,39 +160,61 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | liver          |   |
 
 ### Celestial and Environmental
-| English     |     |
-|-------------|-----|
-| sun         |     |
-| moon        |     |
-| star        |     |
-| water       |     |
-| rain        |     |
-| river       |     |
-| lake        |     |
-| sea         |     |
-| salt        |     |
-| stone, rock | boa |
-| sand        |     |
-| dust        |     |
-| earth       |     |
-| cloud       |     |
-| fog         |     |
-| sky         |     |
-| wind        |     |
-| snow        |     |
-| ice         |     |
-| smoke       |     |
-| fire        |     |
-| ash         |     |
-| road        |     |
-| mountain    |     |
+| English     |      |
+|-------------|------|
+| sun         | a'a' |
+| moon        | éda  |
+| star        |      |
+| water       |      |
+| rain        |      |
+| river       |      |
+| lake        |      |
+| sea         |      |
+| salt        |      |
+| stone, rock | boa  |
+| sand        |      |
+| dust        |      |
+| earth       |      |
+| cloud       |      |
+| fog         |      |
+| sky         |      |
+| wind        |      |
+| snow        |      |
+| ice         |      |
+| smoke       |      |
+| fire        |      |
+| ash         |      |
+| road        |      |
+| mountain    |      |
 
-### Time
-| English |   |
-|---------|---|
-| night   |   |
-| day     |   |
-| year    |   |
+### Space and Time
+| English     |           |
+|-------------|-----------|
+| place       | oza       |
+| night       | édage     |
+| day         | a'a'goz   |
+| year        |           |
+| 1st quarter | gimo'lé   |
+| 2nd quarter | halgébi   |
+| 3rd quarter | di'anadé  |
+| 4th quarter | a'domadi  |
+| spring      | ogribin   |
+| summer      | a'a'déa   |
+| autumn      | bada'ian  |
+| winter      | nimadéa   |
+| January     | Io'déba   |
+| February    | Dado'déba |
+| March       | Lu'déba   |
+| April       | Ezdudéba  |
+| May         | Ganadéba  |
+| Jun         | Ju'u'déba |
+| July        | Omedéba   |
+| August      | Merdéba   |
+| September   | Aziodéba  |
+| October     | Alza'déba |
+| November    | Ésirwain  |
+| December    | Ésirin    |
+
 
 ### Tools
 | English     |        |
@@ -257,6 +285,7 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | to count               |       |
 | to say                 |       |
 | to sing                |       |
+| to bless               | mo'lé |
 | to play                |       |
 | to love                | a'una |
 | to float               |       |
@@ -274,6 +303,8 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | at      |     |
 | on      | gzo |
 | in      |     |
+| before  | wai |
+| after   |     |
 | with    |     |
 
 ## Conjunctions
@@ -282,4 +313,3 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | and     |   |
 | or      |   |
 | if      |   |
-| because |   |
