@@ -1,5 +1,5 @@
 # Vocabulary List
-Adapted from Swadesh list
+Adapted from Swadesh list. This contains the most primitive of the words.
 
 ## Pronoun
 ### Personal
@@ -31,49 +31,49 @@ Adapted from Swadesh list
 | how     |   |
 
 ## Quantity
-| English |   |
-|---------|---|
-| not     |   |
-| all     |   |
-| many    |   |
-| some    |   |
-| few     |   |
-| other   |   |
-| one     |   |
-| two     |   |
-| three   |   |
-| four    |   |
-| five    |   |
+| English |     |
+|---------|-----|
+| not     |     |
+| all     |     |
+| many    |     |
+| some    |     |
+| few     |     |
+| other   |     |
+| one     |     |
+| two     | hwa |
+| three   |     |
+| four    |     |
+| five    |     |
 
 ## Adjectives
-| English            |   |
-|--------------------|---|
-| big                |   |
-| long               |   |
-| wide               |   |
-| thick              |   |
-| heavy              |   |
-| small              |   |
-| short              |   |
-| narrow             |   |
-| thin               |   |
-| warm               |   |
-| cold               |   |
-| full               |   |
-| new                |   |
-| old                |   |
-| good               |   |
-| bad                |   |
-| rotten             |   |
-| dirty              |   |
-| straight           |   |
-| round              |   |
-| sharp (as a knife) |   |
-| dull (as a knife)  |   |
-| smooth             |   |
-| wet                |   |
-| dry                |   |
-| correct            |   |
+| English            |      |
+|--------------------|------|
+| big                | ezar |
+| long               |      |
+| wide               |      |
+| thick              |      |
+| heavy              |      |
+| small              |      |
+| short              |      |
+| narrow             |      |
+| thin               |      |
+| warm               |      |
+| cold               |      |
+| full               |      |
+| new                |      |
+| old                |      |
+| good               |      |
+| bad                |      |
+| rotten             |      |
+| dirty              |      |
+| straight           |      |
+| round              |      |
+| sharp (as a knife) |      |
+| dull (as a knife)  |      |
+| smooth             |      |
+| wet                |      |
+| dry                |      |
+| correct            |      |
 
 ### Colors
 | English |   |
@@ -118,7 +118,6 @@ Adapted from Swadesh list
 | bark (of a tree) |        |
 | flower           |        |
 | grass            |        |
-| rope             |        |
 
 ### Parts of a Body
 | English        |   |
@@ -189,6 +188,21 @@ Adapted from Swadesh list
 | day     |   |
 | year    |   |
 
+### Tools
+| English     |        |
+|-------------|--------|
+| Knife       |        |
+| Axe         |        |
+| Hammer      |        |
+| Rope        |        |
+| Spear       |        |
+| House       |        |
+| Door        |        |
+| Boat        | damgo' |
+| Chariot/car |        |
+| Road        |        |
+
+
 ## Verbs
 | English                |       |
 |------------------------|-------|
@@ -250,16 +264,17 @@ Adapted from Swadesh list
 | to freeze              |       |
 | to swell               |       |
 
-## Space
-| English |   |
-|---------|---|
-| near    |   |
-| far     |   |
-| right   |   |
-| left    |   |
-| at      |   |
-| in      |   |
-| with    |   |
+## Position
+| English |     |
+|---------|-----|
+| near    |     |
+| far     |     |
+| right   |     |
+| left    |     |
+| at      |     |
+| on      | gzo |
+| in      |     |
+| with    |     |
 
 ## Conjunctions
 | English |   |

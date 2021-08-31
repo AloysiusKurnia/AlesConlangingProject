@@ -34,28 +34,29 @@ This chapter describes what sounds can be formed in this language.
 
 ## Morphology
 
-This chapter describes how words are formed from their smaller unit (morpheme). It's coming soon!
+This chapter describes how words are formed from their smaller unit (morpheme).
+- Noun does not decline.
 
 ## Syntax
 
 This chapter describes how sentences are formed to create a meaning.
 
 - Subject-Verb-Object word order
-- (More coming soon!)
+- Adjectives comes before noun.
+- Determiners however comes after noun, but after the adposition.
+- Adpositions comes after the noun. Adpositiional phrase also comes after the noun.
 
 ## Lexicon
 Some sample words.
 
 #### Pronouns
-| Position    |      |
-|-------------|------|
-| 1st sg.     | a'   |
-| 1st pl.     | zo'u |
-| 2nd sg.     | dé   |
-| 2nd pl.     | igzi |
-| 3rd anim.   | nor  |
-| 3rd inanim. | gu   |
-| 3rd pl.     | égér |
+| Position    | Singular | Paucal | Plural |
+|-------------|----------|--------|--------|
+| 1st         | a'       | zaré   | zo'u   |
+| 2nd         | dé       | do'ba  | igzi   |
+| 3rd anim.   | nor      | ongor  | égér   |
+| 3rd inanim. | gu       | dedu   | é'gér  |
+
 
 #### Sample Nouns
 | English |        |
