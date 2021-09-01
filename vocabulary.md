@@ -64,7 +64,7 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | narrow             |      |
 | thin               |      |
 | warm               |      |
-| cold               |      |
+| cold               | ajan |
 | full               |      |
 | new                | gimo |
 | old                |      |
@@ -160,60 +160,61 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | liver          |   |
 
 ### Celestial and Environmental
-| English     |      |
-|-------------|------|
-| sun         | a'a' |
-| moon        | éda  |
-| star        |      |
-| water       |      |
-| rain        |      |
-| river       |      |
-| lake        |      |
-| sea         |      |
-| salt        |      |
-| stone, rock | boa  |
-| sand        |      |
-| dust        |      |
-| earth       |      |
-| cloud       |      |
-| fog         |      |
-| sky         |      |
-| wind        |      |
-| snow        |      |
-| ice         |      |
-| smoke       |      |
-| fire        |      |
-| ash         |      |
-| road        |      |
-| mountain    |      |
+| English     |        |
+|-------------|--------|
+| sun         | a'a'   |
+| moon        | éda    |
+| star        |        |
+| water       |        |
+| rain        |        |
+| river       |        |
+| lake        |        |
+| sea         |        |
+| salt        |        |
+| stone, rock | boa    |
+| sand        |        |
+| dust        |        |
+| earth       |        |
+| cloud       |        |
+| fog         |        |
+| sky         |        |
+| wind        |        |
+| snow        | dé'ar  |
+| ice         | déagza |
+| smoke       |        |
+| fire        |        |
+| ash         |        |
+| road        |        |
+| mountain    |        |
 
 ### Space and Time
-| English     |           |
-|-------------|-----------|
-| place       | oza       |
-| night       | édage     |
-| day         | a'a'goz   |
-| year        |           |
-| 1st quarter | gimo'lé   |
-| 2nd quarter | halgébi   |
-| 3rd quarter | di'anadé  |
-| 4th quarter | a'domadi  |
-| spring      | ogribin   |
-| summer      | a'a'déa   |
-| autumn      | bada'ian  |
-| winter      | nimadéa   |
-| January     | Io'déba   |
-| February    | Dado'déba |
-| March       | Lu'déba   |
-| April       | Ezdudéba  |
-| May         | Ganadéba  |
-| Jun         | Ju'u'déba |
-| July        | Omedéba   |
-| August      | Merdéba   |
-| September   | Aziodéba  |
-| October     | Alza'déba |
-| November    | Ésirwain  |
-| December    | Ésirin    |
+| English     |           | Etymology          |
+|-------------|-----------|--------------------|
+| place       | oza       |                    |
+| night       | édage     |                    |
+| day         | a'a'goz   |                    |
+| month       | édéba     |                    |
+| year        |           |                    |
+| 1st quarter | gimo'lé   |                    |
+| 2nd quarter | halgébi   |                    |
+| 3rd quarter | di'anadé  |                    |
+| 4th quarter | a'domadi  |                    |
+| spring      | nimadegin | season of raising  |
+| summer      | nima'a'   | season of the sun  |
+| autumn      | nima'orod | season of cutting  |
+| winter      | nimadéa   | season of coldness |
+| January     | Io'déba   | month of ...       |
+| February    | Dado'déba | month of ...       |
+| March       | Lu'déba   | month of ...       |
+| April       | Ezdudéba  | month of ...       |
+| May         | Ganadéba  | month of ...       |
+| Jun         | Ju'u'déba | month of ...       |
+| July        | Omedéba   | month of ...       |
+| August      | Merdéba   | month of ...       |
+| September   | Aziodéba  | month of ...       |
+| October     | Alza'déba | month of ...       |
+| November    | Ésirwain  | before December    |
+| December    | Ésirin    | -                  |
 
 
 ### Tools
@@ -232,66 +233,67 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 
 
 ## Verbs
-| English                |       |
-|------------------------|-------|
-| to drink               |       |
-| to eat                 |       |
-| to bite                |       |
-| to suck                |       |
-| to spit                |       |
-| to vomit               |       |
-| to blow                |       |
-| to breathe             |       |
-| to laugh               |       |
-| to see                 | da'   |
-| to hear                |       |
-| to know                |       |
-| to think               |       |
-| to smell               |       |
-| to fear                |       |
-| to sleep               |       |
-| to live                |       |
-| to die                 |       |
-| to kill                |       |
-| to fight               |       |
-| to hunt                |       |
-| to hit                 |       |
-| to cut                 |       |
-| to burn                |       |
-| to split               |       |
-| to stab                |       |
-| to scratch             |       |
-| to dig                 |       |
-| to swim                |       |
-| to fly                 |       |
-| to walk                |       |
-| to come                |       |
-| to lie (as in a bed)   |       |
-| to sit                 | ire   |
-| to stand               |       |
-| to turn (intransitive) |       |
-| to fall                |       |
-| to give                | lago  |
-| to hold                |       |
-| to squeeze             |       |
-| to rub                 |       |
-| to wash                |       |
-| to wipe                |       |
-| to pull                |       |
-| to push                |       |
-| to throw               |       |
-| to tie                 |       |
-| to sew                 |       |
-| to count               |       |
-| to say                 |       |
-| to sing                |       |
-| to bless               | mo'lé |
-| to play                |       |
-| to love                | a'una |
-| to float               |       |
-| to flow                |       |
-| to freeze              |       |
-| to swell               |       |
+| English                |        |
+|------------------------|--------|
+| to drink               |        |
+| to eat                 |        |
+| to bite                |        |
+| to suck                |        |
+| to spit                |        |
+| to vomit               |        |
+| to blow                |        |
+| to breathe             |        |
+| to laugh               |        |
+| to see                 | da'    |
+| to hear                |        |
+| to know                |        |
+| to think               |        |
+| to smell               |        |
+| to fear                |        |
+| to sleep               |        |
+| to live                |        |
+| to die                 |        |
+| to kill                |        |
+| to fight               |        |
+| to hunt                |        |
+| to hit                 |        |
+| to cut                 | o'rod  |
+| to burn                |        |
+| to split               |        |
+| to stab                |        |
+| to scratch             |        |
+| to dig                 |        |
+| to swim                |        |
+| to fly                 |        |
+| to walk                |        |
+| to come                |        |
+| to lie (as in a bed)   |        |
+| to sit                 | ire    |
+| to stand               |        |
+| to turn (intransitive) |        |
+| to fall                |        |
+| to give                | lago   |
+| to hold                |        |
+| to squeeze             |        |
+| to rub                 |        |
+| to wash                |        |
+| to wipe                |        |
+| to pull                |        |
+| to push                |        |
+| to throw               |        |
+| to tie                 |        |
+| to sew                 |        |
+| to count               |        |
+| to say                 |        |
+| to sing                |        |
+| to bless               | mo'lé  |
+| to play                |        |
+| to love                | a'una  |
+| to float               |        |
+| to flow                |        |
+| to freeze              |        |
+| to swell               |        |
+| to raise               | déginu |
 
 ## Position
 | English |     |
