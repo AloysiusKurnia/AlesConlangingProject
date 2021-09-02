@@ -19,7 +19,7 @@ This chapter describes what sounds can be formed in this language.
 |       | Front   | Central | Back |
 |-------|---------|---------|------|
 | Close | i       |         | u    |
-| Mid   | e~ɛ ⟨é⟩ | ə ⟨e⟩   | o    |
+| Mid   | e~ɛ ⟨e⟩ | ə ⟨ê⟩   | o    |
 | Open  |         | a       |      |
 
 #### Phonotactics
@@ -35,7 +35,9 @@ This chapter describes what sounds can be formed in this language.
 ## Morphology
 
 This chapter describes how words are formed from their smaller unit (morpheme).
-- Noun does not decline.
+- Noun does not decline by case, though there are a lot of locative affixes.
+- Adjective does not decline to the noun. Comparatives and superlatives are marked by bé- and bebé- respectively.
+-
 
 ## Syntax
 
@@ -52,24 +54,24 @@ Some sample words.
 #### Pronouns
 | Position    | Singular | Paucal | Plural |
 |-------------|----------|--------|--------|
-| 1st         | a'       | zaré   | zo'u   |
-| 2nd         | dé       | do'ba  | igzi   |
-| 3rd anim.   | nor      | ongor  | égér   |
-| 3rd inanim. | gu       | dedu   | é'gér  |
+| 1st         | a'       | zare   | zo'u   |
+| 2nd         | de       | do'ba  | igzi   |
+| 3rd anim.   | nor      | ongor  | eger   |
+| 3rd inanim. | gu       | dêdu   | e'ger  |
 
 
 #### Sample Nouns
 | English |        |
 |---------|--------|
-| animal  | a'gédo |
-| person  | ha'géo |
+| animal  | a'gedo |
+| person  | ha'geo |
 | rock    | boa    |
 
 #### Sample Verbs
 | English |       |
 |---------|-------|
 | to love | a'una |
-| to sit  | ire   |
+| to sit  | irê   |
 | to see  | da'   |
 | to give | lago  |
 

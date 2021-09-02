@@ -6,12 +6,12 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | English        |      |
 |----------------|------|
 | I              | a'   |
-| you (singular) | dé   |
+| you (singular) | de   |
 | he/she         | nor  |
 | it             | gu   |
 | we             | zo'u |
 | you (plural)   | igzi |
-| they           | égér |
+| they           | eger |
 
 ### Demonstratives
 | English |   |
@@ -25,11 +25,11 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | English  |        |
 |----------|--------|
 | who      | ha'ga' |
-| what     | béda'  |
-| where    | ozagé  |
+| what     | beda'  |
+| where    | ozage  |
 | when     | angza  |
 | how      | doja   |
-| how many | obén   |
+| how many | oben   |
 
 ## Quantity
 | English |     |
@@ -52,34 +52,36 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | thanks  | a'doma |
 
 ## Adjectives
-| English            |      |
-|--------------------|------|
-| big                | ezar |
-| long               |      |
-| wide               |      |
-| thick              |      |
-| heavy              |      |
-| small              |      |
-| short              |      |
-| narrow             |      |
-| thin               |      |
-| warm               |      |
-| cold               | ajan |
-| full               |      |
-| new                | gimo |
-| old                |      |
-| good               |      |
-| bad                |      |
-| rotten             |      |
-| dirty              |      |
-| straight           |      |
-| round              |      |
-| sharp (as a knife) |      |
-| dull (as a knife)  |      |
-| smooth             |      |
-| wet                |      |
-| dry                |      |
-| correct            |      |
+| English            |        |
+|--------------------|--------|
+| big                | ezar   |
+| long               |        |
+| wide               |        |
+| thick              |        |
+| heavy              |        |
+| small              |        |
+| short              |        |
+| narrow             |        |
+| thin               |        |
+| warm               |        |
+| cold               | ajan   |
+| full               |        |
+| new                | gimo   |
+| old                |        |
+| good               |        |
+| bad                |        |
+| rotten             |        |
+| dirty              |        |
+| straight           |        |
+| round              |        |
+| sharp (as a knife) |        |
+| dull (as a knife)  |        |
+| smooth             |        |
+| wet                |        |
+| dry                |        |
+| correct            |        |
+| bright             | gozedê |
+| dark               |        |
 
 ### Colors
 | English |   |
@@ -96,7 +98,7 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 |-------------------|--------|
 | woman             |        |
 | man (adult male)  |        |
-| man (human being) | ha'géo |
+| man (human being) | ha'geo |
 | child             |        |
 | wife              |        |
 | husband           |        |
@@ -107,7 +109,7 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 ### Creatures
 | English          |        |
 |------------------|--------|
-| animal           | a'gédo |
+| animal           | a'gedo |
 | fish             |        |
 | bird             |        |
 | dog              |        |
@@ -163,7 +165,7 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | English     |        |
 |-------------|--------|
 | sun         | a'a'   |
-| moon        | éda    |
+| moon        | eda    |
 | star        |        |
 | water       |        |
 | rain        |        |
@@ -179,8 +181,8 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | fog         |        |
 | sky         |        |
 | wind        |        |
-| snow        | dé'ar  |
-| ice         | déagza |
+| snow        | de'ar  |
+| ice         | deagza |
 | smoke       |        |
 | fire        |        |
 | ash         |        |
@@ -191,30 +193,30 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | English     |           | Etymology          |
 |-------------|-----------|--------------------|
 | place       | oza       |                    |
-| night       | édage     |                    |
+| night       | edagê     |                    |
 | day         | a'a'goz   |                    |
-| month       | édéba     |                    |
+| month       | edeba     |                    |
 | year        |           |                    |
-| 1st quarter | gimo'lé   |                    |
-| 2nd quarter | halgébi   |                    |
-| 3rd quarter | di'anadé  |                    |
+| 1st quarter | gimo'le   |                    |
+| 2nd quarter | halgebi   |                    |
+| 3rd quarter | di'anade  |                    |
 | 4th quarter | a'domadi  |                    |
 | spring      | nimadegin | season of raising  |
 | summer      | nima'a'   | season of the sun  |
 | autumn      | nima'orod | season of cutting  |
-| winter      | nimadéa   | season of coldness |
-| January     | Io'déba   | month of ...       |
-| February    | Dado'déba | month of ...       |
-| March       | Lu'déba   | month of ...       |
-| April       | Ezdudéba  | month of ...       |
-| May         | Ganadéba  | month of ...       |
-| Jun         | Ju'u'déba | month of ...       |
-| July        | Omedéba   | month of ...       |
-| August      | Merdéba   | month of ...       |
-| September   | Aziodéba  | month of ...       |
-| October     | Alza'déba | month of ...       |
-| November    | Ésirwain  | before December    |
-| December    | Ésirin    | -                  |
+| winter      | nimadea   | season of coldness |
+| January     | Io'deba   | month of ...       |
+| February    | Dado'deba | month of ...       |
+| March       | Lu'deba   | month of ...       |
+| April       | Êzdudeba  | month of ...       |
+| May         | Ganadeba  | month of ...       |
+| Jun         | Ju'u'deba | month of ...       |
+| July        | Omêdeba   | month of ...       |
+| August      | Mêrdeba   | month of ...       |
+| September   | Aziodeba  | month of ...       |
+| October     | Alza'deba | month of ...       |
+| November    | Esirwain  | before December    |
+| December    | Esirin    | -                  |
 
 
 ### Tools
@@ -268,13 +270,14 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | to walk                |        |
 | to come                |        |
 | to lie (as in a bed)   |        |
-| to sit                 | ire    |
+| to sit                 | irê    |
 | to stand               |        |
 | to turn (intransitive) |        |
 | to fall                |        |
 | to give                | lago   |
 | to hold                |        |
 | to squeeze             |        |
+| to hug                 | dagea  |
 | to rub                 |        |
 | to wash                |        |
 | to wipe                |        |
@@ -286,14 +289,15 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | to count               |        |
 | to say                 |        |
 | to sing                |        |
-| to bless               | mo'lé  |
+| to shine               | gozdea |
+| to bless               | mo'le  |
 | to play                |        |
 | to love                | a'una  |
 | to float               |        |
 | to flow                |        |
 | to freeze              |        |
 | to swell               |        |
-| to raise               | déginu |
+| to raise               | deginu |
 
 ## Position
 | English |     |
