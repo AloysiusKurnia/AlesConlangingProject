@@ -36,8 +36,8 @@ This chapter describes what sounds can be formed in this language.
 
 This chapter describes how words are formed from their smaller unit (morpheme).
 - Noun does not decline by case, though there are a lot of locative affixes.
-- Adjective does not decline to the noun. Comparatives and superlatives are marked by bé- and bebé- respectively.
--
+- Adjective does not decline to the noun. Comparatives and superlatives are marked by be- and bêbe- respectively.
+- Verbs are conjugated by tense, that is, past "da-" and future "go-"
 
 ## Syntax
 

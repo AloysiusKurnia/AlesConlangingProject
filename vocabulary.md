@@ -233,6 +233,10 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | Chariot/car |        |
 | Road        |        |
 
+## Copula
+| Positive (to be) | Negative (to not be) |
+|------------------|----------------------|
+| ê                | êng                  |
 
 ## Verbs
 | English                |        |
@@ -300,18 +304,19 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | to raise               | deginu |
 
 ## Position
-| English |     |
-|---------|-----|
-| near    |     |
-| far     |     |
-| right   |     |
-| left    |     |
-| at      |     |
-| on      | gzo |
-| in      |     |
-| before  | wai |
-| after   |     |
-| with    |     |
+| English |      |
+|---------|------|
+| near    |      |
+| far     |      |
+| right   |      |
+| left    |      |
+| at      |      |
+| on      | -aze |
+| below   | -boz |
+| in      |      |
+| before  | -wai |
+| after   |      |
+| with    |      |
 
 ## Conjunctions
 | English |   |
