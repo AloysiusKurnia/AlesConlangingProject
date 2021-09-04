@@ -14,22 +14,24 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | they           | eger |
 
 ### Demonstratives
-| English |   |
-|---------|---|
-| this    |   |
-| that    |   |
-| here    |   |
-| there   |   |
+| English |    |
+|---------|----|
+| this    |    |
+| that    |    |
+| here    |    |
+| there   |    |
+| the     | o' |
 
 ## Question markers
-| English  |        |
-|----------|--------|
-| who      | ha'ga' |
-| what     | beda'  |
-| where    | ozage  |
-| when     | angza  |
-| how      | doja   |
-| how many | oben   |
+| English       |        |
+|---------------|--------|
+| who (anim.)   | ha'ga' |
+| which (inan.) | hag    |
+| what          | beda'  |
+| where         | ozage  |
+| when          | angza  |
+| how           | doja   |
+| how many      | oben   |
 
 ## Quantity
 | English |     |
@@ -40,9 +42,9 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | some    |     |
 | few     |     |
 | other   |     |
-| one     |     |
+| one     | du  |
 | two     | hwa |
-| three   |     |
+| three   | bir |
 | four    |     |
 | five    |     |
 
@@ -63,7 +65,7 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | short              |        |
 | narrow             |        |
 | thin               |        |
-| warm               |        |
+| warm               | godi   |
 | cold               | ajan   |
 | full               |        |
 | new                | gimo   |
@@ -82,6 +84,10 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | correct            |        |
 | bright             | gozedê |
 | dark               |        |
+| strong             | a'di   |
+| weak               | i'miê  |
+| different          | doro   |
+| same, similar      | dimi   |
 
 ### Colors
 | English |   |
@@ -180,7 +186,7 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | cloud       |        |
 | fog         |        |
 | sky         |        |
-| wind        |        |
+| wind        | za'e   |
 | snow        | de'ar  |
 | ice         | deagza |
 | smoke       |        |
@@ -193,6 +199,10 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | English     |           | Etymology          |
 |-------------|-----------|--------------------|
 | place       | oza       |                    |
+| south       | deba'e    |                    |
+| north       | gi'jo'e   |                    |
+| west        | roza      |                    |
+| east        | juza      |                    |
 | night       | edagê     |                    |
 | day         | a'a'goz   |                    |
 | month       | edeba     |                    |
@@ -232,6 +242,7 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | Boat        | damgo' |
 | Chariot/car |        |
 | Road        |        |
+| Cover       | zi'zi  |
 
 ## Copula
 | Positive (to be) | Negative (to not be) |
@@ -239,69 +250,72 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | ê                | êng                  |
 
 ## Verbs
-| English                |        |
-|------------------------|--------|
-| to drink               |        |
-| to eat                 |        |
-| to bite                |        |
-| to suck                |        |
-| to spit                |        |
-| to vomit               |        |
-| to blow                |        |
-| to breathe             |        |
-| to laugh               |        |
-| to see                 | da'    |
-| to hear                |        |
-| to know                |        |
-| to think               |        |
-| to smell               |        |
-| to fear                |        |
-| to sleep               |        |
-| to live                |        |
-| to die                 |        |
-| to kill                |        |
-| to fight               |        |
-| to hunt                |        |
-| to hit                 |        |
-| to cut                 | o'rod  |
-| to burn                |        |
-| to split               |        |
-| to stab                |        |
-| to scratch             |        |
-| to dig                 |        |
-| to swim                |        |
-| to fly                 |        |
-| to walk                |        |
-| to come                |        |
-| to lie (as in a bed)   |        |
-| to sit                 | irê    |
-| to stand               |        |
-| to turn (intransitive) |        |
-| to fall                |        |
-| to give                | lago   |
-| to hold                |        |
-| to squeeze             |        |
-| to hug                 | dagea  |
-| to rub                 |        |
-| to wash                |        |
-| to wipe                |        |
-| to pull                |        |
-| to push                |        |
-| to throw               |        |
-| to tie                 |        |
-| to sew                 |        |
-| to count               |        |
-| to say                 |        |
-| to sing                |        |
-| to shine               | gozdea |
-| to bless               | mo'le  |
-| to play                |        |
-| to love                | a'una  |
-| to float               |        |
-| to flow                |        |
-| to freeze              |        |
-| to swell               |        |
-| to raise               | deginu |
+| English                |         | Etymology          |
+|------------------------|---------|--------------------|
+| to drink               |         |                    |
+| to eat                 |         |                    |
+| to bite                |         |                    |
+| to suck                |         |                    |
+| to spit                |         |                    |
+| to vomit               |         |                    |
+| to blow                |         |                    |
+| to breathe             |         |                    |
+| to laugh               |         |                    |
+| to see                 | da'     |                    |
+| to hear                |         |                    |
+| to know                |         |                    |
+| to think               |         |                    |
+| to smell               |         |                    |
+| to fear                |         |                    |
+| to sleep               |         |                    |
+| to live                |         |                    |
+| to die                 |         |                    |
+| to kill                |         |                    |
+| to fight               |         |                    |
+| to hunt                |         |                    |
+| to hit                 |         |                    |
+| to cut                 | o'rod   |                    |
+| to burn                |         |                    |
+| to split               |         |                    |
+| to stab                |         |                    |
+| to scratch             |         |                    |
+| to dig                 |         |                    |
+| to swim                |         |                    |
+| to fly                 |         |                    |
+| to walk                | imobe   |                    |
+| to come                | engi    |                    |
+| to lie (as in a bed)   |         |                    |
+| to sit                 | irê     |                    |
+| to stand               |         |                    |
+| to turn (intransitive) |         |                    |
+| to fall                |         |                    |
+| to give                | lago    |                    |
+| to hold                |         |                    |
+| to squeeze             |         |                    |
+| to hug                 | dagea   |                    |
+| to rub                 |         |                    |
+| to wash                |         |                    |
+| to wipe                |         |                    |
+| to pull                |         |                    |
+| to push                |         |                    |
+| to throw               |         |                    |
+| to tie                 |         |                    |
+| to sew                 |         |                    |
+| to count               |         |                    |
+| to say                 |         |                    |
+| to sing                |         |                    |
+| to shine               | gozdea  |                    |
+| to bless               | mo'le   |                    |
+| to play                |         |                    |
+| to love                | a'una   |                    |
+| to float               |         |                    |
+| to flow                |         |                    |
+| to freeze              |         |                    |
+| to swell               |         |                    |
+| to raise               | deginu  |                    |
+| to think               | himi'   |                    |
+| to dispute/debate      | dorimi' | Different thinking |
+| to wrap                | orma    |                    |
 
 ## Position
 | English |      |
@@ -313,14 +327,19 @@ Adapted from Swadesh list. This contains the most primitive of the words.
 | at      |      |
 | on      | -aze |
 | below   | -boz |
-| in      |      |
+| in      | -gi  |
 | before  | -wai |
 | after   |      |
 | with    |      |
 
 ## Conjunctions
-| English |   |
-|---------|---|
-| and     |   |
-| or      |   |
-| if      |   |
+| English |      |
+|---------|------|
+| and     | ir   |
+| or      | nier |
+| if      |      |
+
+## Lexical affixes
+| English          |     |
+|------------------|-----|
+| -er (agent noun) | ro- |

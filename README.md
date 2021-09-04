@@ -36,7 +36,7 @@ This chapter describes what sounds can be formed in this language.
 
 This chapter describes how words are formed from their smaller unit (morpheme).
 - Noun does not decline by case, though there are a lot of locative affixes.
-- Adjective does not decline to the noun. Comparatives and superlatives are marked by be- and bêbe- respectively.
+- Adjective does not decline to the noun. Comparatives and superlatives are marked by be- and bebê- respectively.
 - Verbs are conjugated by tense, that is, past "da-" and future "go-"
 
 ## Syntax
@@ -44,9 +44,9 @@ This chapter describes how words are formed from their smaller unit (morpheme).
 This chapter describes how sentences are formed to create a meaning.
 
 - Subject-Verb-Object word order
-- Adjectives comes before noun.
-- Determiners however comes after noun, but after the adposition.
-- Adpositions comes after the noun. Adpositiional phrase also comes after the noun.
+- Adjectives and determiner comes before noun.
+- This language uses postposition.
+- Adpositions comes after the noun. Adpositional phrase also comes after the noun.
 
 ## Lexicon
 Some sample words.
@@ -56,8 +56,8 @@ Some sample words.
 |-------------|----------|--------|--------|
 | 1st         | a'       | zare   | zo'u   |
 | 2nd         | de       | do'ba  | igzi   |
-| 3rd anim.   | nor      | ongor  | eger   |
-| 3rd inanim. | gu       | dêdu   | e'ger  |
+| 3rd anim.   | nor      | ongor  | egêr   |
+| 3rd inanim. | gu       | dêdu   | e'gêr  |
 
 
 #### Sample Nouns
