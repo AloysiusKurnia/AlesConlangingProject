@@ -57,7 +57,7 @@ Some sample words.
 | 1st         | a'       | zare   | zo'u   |
 | 2nd         | de       | do'ba  | igzi   |
 | 3rd anim.   | nor      | ongor  | egêr   |
-| 3rd inanim. | gu       | dêdu   | e'gêr  |
+| 3rd inanim. | gu       | dêdu   | i  |
 
 
 #### Sample Nouns
