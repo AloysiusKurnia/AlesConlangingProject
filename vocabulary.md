@@ -93,6 +93,7 @@ Beberapa konstruksi yang dapat dilakukan dengan angka-angka.
 |-----------|---------|------------|-------|
 | Ordinal   | -th     | yang ke-   | i'-   |
 | Adverbial | times   | kali       | -me*) |
+
 *) "satu kali" ("once") diterjemahkan menjadi "dudu".
 
 ***
