@@ -36,7 +36,7 @@ This chapter describes what sounds can be formed in this language.
 
 This chapter describes how words are formed from their smaller unit (morpheme).
 - Noun does not decline by case, though there are a lot of locative affixes.
-- Adjective does not decline to the noun. Comparatives and superlatives are marked by be- and bebê- respectively.
+- Adjective does not decline to the noun. Comparatives and superlatives are marked by be- and bebê- respectively. 
 - Verbs are conjugated by tense, that is, past "da-" and future "go-"
 
 ## Syntax
@@ -57,7 +57,7 @@ Some sample words.
 | 1st         | a'       | zare   | zo'u   |
 | 2nd         | de       | do'ba  | igzi   |
 | 3rd anim.   | nor      | ongor  | egêr   |
-| 3rd inanim. | gu       | dêdu   | i  |
+| 3rd inanim. | gu       | dêdu   | e'gêr  |
 
 
 #### Sample Nouns
@@ -76,3 +76,13 @@ Some sample words.
 | to give | lago  |
 
 See more at this [vocabulary list](vocabulary.md).
+
+## Sample Sentence
+
+**The North Wind and the Sun** (Partially)
+
+The North Wind and the Sun were disputing which was the stronger, when a traveler came along wrapped in a warm cloak. They agreed that the one who first succeeded in making the traveler take his cloak off should be considered stronger than the other. Then the North Wind blew as hard as he could, but the more he blew the more closely did the traveler fold his cloak around him.
+
+**O' Za'e Gi'jo'e ir o' A'a'**
+
+O' za'e gi'jo'e ir o' a'a' dorimi' hag ê be'a'di, angza dro'imobe, ha'ga' dzi'zi godi orma nor, engi. E'gêr dimihimi' agi o' du hag i'du aniga nabegi o' ro'imobe waboe norzig zi'zi, joh igwar bea'di obe o' oboi. Zima o' za'e gi'jo'e bwiz higadi i' gu deng, dab angza du bwiz begadi, o' ro'imobe labu norzig zi'zi norsiba' be'a'di'en.
