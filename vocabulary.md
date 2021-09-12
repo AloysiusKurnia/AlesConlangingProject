@@ -10,6 +10,7 @@ Kata ganti yang dapat menggantikan kata benda.
 
 ### Personal
 Untuk menggantikan orang/benda secara umum.
+
 | English            | Indonesian |       |
 |--------------------|------------|-------|
 | I                  | saya       | a'    |
@@ -27,6 +28,7 @@ Untuk menggantikan orang/benda secara umum.
 
 ### Demonstratives
 Untuk menggantikan benda sesuai dengan posisi. "this" dan "that" juga dapat berlaku sebagai determiner.
+
 | English | Indonesian |     |
 |---------|------------|-----|
 | this    | ini        | gi  |
@@ -38,10 +40,11 @@ Untuk menggantikan benda sesuai dengan posisi. "this" dan "that" juga dapat berl
 
 ## Question markers
 Kata tanya.
+
 | English       | Indonesian |        |
 |---------------|------------|--------|
 | who (anim.)   | siapa      | ha'ga' |
-| which (inan.) | yang mana  | hag    |
+| which (inan.) | yang mana  | hak    |
 | what          | apa        | beda'  |
 | where         | dimana     | ozage  |
 | when          | kapan      | angza  |
@@ -55,6 +58,7 @@ Untuk menunjukkan referensi benda tersebut.
 
 ### Particle
 Penunjuk apakah benda tersebut spesifik atau umum.
+
 | English | Indonesian |        |
 |---------|------------|--------|
 | the     | sang/si    | o'     |
@@ -62,6 +66,7 @@ Penunjuk apakah benda tersebut spesifik atau umum.
 
 ### Quantity
 Penunjuk seberapa banyak benda tersebut, atau seberapa banyak bagian benda tersebut dari kelompoknya.
+
 | English | Indonesian |   |
 |---------|------------|---|
 | no      | tiada      |   |
@@ -72,6 +77,7 @@ Penunjuk seberapa banyak benda tersebut, atau seberapa banyak bagian benda terse
 
 ### Numbers
 Angka.
+
 | English | Indonesian |       |
 |---------|------------|-------|
 | other   | lain       | oboi  |
@@ -89,6 +95,7 @@ Angka.
 **TODO**: Bagaimana cara membentuk bilangan yang lebih besar?
 
 Beberapa konstruksi yang dapat dilakukan dengan angka-angka.
+
 | Construct | English | Indonesian |       |
 |-----------|---------|------------|-------|
 | Ordinal   | -th     | yang ke-   | i'-   |
@@ -100,6 +107,7 @@ Beberapa konstruksi yang dapat dilakukan dengan angka-angka.
 
 ## Adjectives
 Kata sifat.
+
 | English            |        |
 |--------------------|--------|
 | big                | ezar   |
@@ -139,6 +147,7 @@ Kata sifat.
 | soft               | elja   |
 
 ### Colors
+
 | English |   |
 |---------|---|
 | red     |   |
@@ -148,6 +157,7 @@ Kata sifat.
 | black   |   |
 
 ### Position
+
 | English |   |
 |---------|---|
 | near    |   |
@@ -158,12 +168,14 @@ Kata sifat.
 
 ### Grammar dengan kata sifat
 Degree of comparison: menandakan apakah sebuah kata sifat itu lebih atau paling.
+
 | Construct   | English               | Indonesian   |            |
 |-------------|-----------------------|--------------|------------|
 | comparative | more _adj_, _adj_-er  | lebih _adj_  | be-_adj_   |
 | superlative | most _adj_, _adj_-est | paling _adj_ | bebê-_adj_ |
 
 Comparative construct: membandingkan sifat dari dua kata benda.
+
 | Degree | English         | Indonesian        |             |
 |--------|-----------------|-------------------|-------------|
 | more   | more _adj_ than | lebih _adj_ dari  | be-_adj_ i' |
@@ -175,6 +187,7 @@ Berikut beberapa konstruksi yang dapat menciptakan kata benda:
 
 **Possessive adjective**: (Dari noun) Menandakan bahwa objek memiliki sifat mempunyai sesuatu. Contoh: "berduri", "berambut".
 Khusus bahasa Inggris, bentuk ini punya lawan kata yaitu "-less" ("tanpa").
+
 | English     | Indonesian   |   |
 |-------------|--------------|---|
 | _noun_-ed   | ber-_noun_   |   |
@@ -184,7 +197,9 @@ Khusus bahasa Inggris, bentuk ini punya lawan kata yaitu "-less" ("tanpa").
 
 ## Nouns
 Kata benda.
+
 ### Human Being
+
 | English           |        |
 |-------------------|--------|
 | woman             |        |
@@ -198,6 +213,7 @@ Kata benda.
 | name              |        |
 
 ### Creatures
+
 | English          |        |
 |------------------|--------|
 | animal           | a'gedo |
@@ -219,6 +235,7 @@ Kata benda.
 | grass            |        |
 
 ### Parts of a Body
+
 | English        |   |
 |----------------|---|
 | skin           |   |
@@ -253,6 +270,7 @@ Kata benda.
 | liver          |   |
 
 ### Celestial and Environmental
+
 | English     |        |
 |-------------|--------|
 | sun         | a'a'   |
@@ -266,7 +284,7 @@ Kata benda.
 | salt        |        |
 | stone, rock | boa    |
 | sand        |        |
-| dust        |        |
+| dust        | gi'se  |
 | earth       |        |
 | cloud       |        |
 | fog         |        |
@@ -281,6 +299,7 @@ Kata benda.
 | mountain    |        |
 
 ### Space and Time
+
 | English     |           | Etymology          |
 |-------------|-----------|--------------------|
 | place       | oza       |                    |
@@ -314,6 +333,7 @@ Kata benda.
 | December    | Esirin    | -                  |
 
 ### Tools
+
 | English     |        |
 |-------------|--------|
 | knife       |        |
@@ -329,33 +349,40 @@ Kata benda.
 | cover/cloak | zi'zi  |
 
 ### Konstruksi yang membuat kata benda
+
 Berikut beberapa konstruksi yang dapat menciptakan kata benda:
 
 **Agent noun**: (Dari verb) Menandakan siapa yang melakukan suatu pekerjaan. Contoh: "pekerja", "pelari".
+
 | English   | Indonesian |     |
 |-----------|------------|-----|
 | _verb_-er | pe-_verb_  | ro- |
 
 **Gerund noun**: (Dari verb) Menandakan kejadian dari kata kerja. Contoh: "penembakan", "pemancingan".
-| English    | Indonesian   |   |
-|------------|--------------|---|
-| _verb_-ing | pe-_verb_-an |   |
+
+| English    | Indonesian   |         |
+|------------|--------------|---------|
+| _verb_-ing | pe-_verb_-an | o-()-be |
 
 **State of being**: (Dari adjective) Menandakan keadaan suatu kata sifat. Contoh: "kebaikan", "kecerahan".
-| English    | Indonesian  |   |
-|------------|-------------|---|
-| _adj_-ness | ke-_adj_-an |   |
+
+| English    | Indonesian  |     |
+|------------|-------------|-----|
+| _adj_-ness | ke-_adj_-an | so- |
 
 ***
 
 ## Copula
+
 Penanda bahwa dua benda adalah sama.
+
 | Positive (to be) | Negative (to not be) |
 |------------------|----------------------|
 | ê                | êng                  |
 
 ## Verbs
 Kata kerja.
+
 | English                |           | Etymology          |
 |------------------------|-----------|--------------------|
 | to be able, can        | deng      |                    |
@@ -435,6 +462,7 @@ Kata kerja.
 
 ### Grammar dengan kata kerja
 **Tense**: Kata kerja dapat dibagi ke dalam tiga rentang waktu sebagai berikut.
+
 | Tense   | English       |             |
 |---------|---------------|-------------|
 | Present | _verb_        | (no prefix) |
@@ -442,24 +470,26 @@ Kata kerja.
 | Future  | will + _verb_ | go-         |
 
 **Voice**: Kata kerja dapat dibagi dua berdasarkan arah kerja kata tersebut.
-| Voice            | English        |   |
-|------------------|----------------|---|
-| Active           | _verb_         |   |
-| Medial/reflexive | _verb_ itself  |   |
-| Passive          | be + _verb_-ed |   |
+
+| Voice   | English      |       |
+|---------|--------------|-------|
+| Active  | _verb_       |       |
+| Passive | be _verb_-ed | -(o)j |
 
 ### Konstruksi yang membuat kata kerja
 Berikut beberapa konstruksi yang dapat menciptakan kata kerja:
 
 **Denominative**: (Dari adjective/noun) Menandakan kejadian penjadian suatu sifat. Contoh: "membiru", "memanas".
-| English             | Indonesian |   |
-|---------------------|------------|---|
-| _adj_-en, _adj_-ify | me-_adj_   |   |
+
+| English             | Indonesian |                                |
+|---------------------|------------|--------------------------------|
+| _adj_-en, _adj_-ify | me-_adj_   | d(V)- mengikuti vokal di depan |
 
 ***
 
 ## Adposition
 Penanda tempat di ruang dan waktu.
+
 | English |        |
 |---------|--------|
 | of      | -zig   |
@@ -476,6 +506,7 @@ Penanda tempat di ruang dan waktu.
 
 ## Conjunctions
 Penghubung dua anak kalimat atau kata yang kelasnya sama.
+
 | English                            |      |
 |------------------------------------|------|
 | and                                | ir   |
@@ -488,6 +519,7 @@ Penghubung dua anak kalimat atau kata yang kelasnya sama.
 ***
 
 ## Conversational Words
+
 | English                 |         |
 |-------------------------|---------|
 | Welcome!                |         |
