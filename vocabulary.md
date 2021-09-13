@@ -119,7 +119,8 @@ Kata sifat.
 | thin               |          |
 | warm               | godi     |
 | cold               | ajan     |
-| full               |          |
+| full               | izae     |
+| empty              | gozae    |
 | new                | gimo     |
 | young              | hio      |
 | old                | ubi      |
@@ -136,7 +137,7 @@ Kata sifat.
 | dry                |          |
 | correct            |          |
 | bright             | gozedê   |
-| dark               |          |
+| dark               | gozeno   |
 | strong             | atdi     |
 | weak               | itmiê    |
 | different          | doro     |
@@ -159,10 +160,10 @@ Kata sifat.
 
 | English | Dizadean |
 |---------|----------|
-| near    |          |
-| far     |          |
-| right   |          |
-| left    |          |
+| near    | miga     |
+| far     | odiz     |
+| right   | iga      |
+| left    | o'bad    |
 
 
 ### Grammar dengan kata sifat

@@ -1,5 +1,5 @@
-# Unnamed Conlang Project
-Conlang created by Ale.
+# Dizadean Language
+Dizadeazik Laeli.
 
 ## Phonology
 This chapter describes what sounds can be formed in this language.
@@ -11,7 +11,7 @@ This chapter describes what sounds can be formed in this language.
 | Nasal       | m      |        | n        |         | ŋ ⟨ng⟩ |         |
 | Stop        | b      |        | d        |         | g      | ʔ ⟨'⟩   |
 | Fricative   |        | ð ⟨z⟩  | s        |         |        | h       |
-| Approximant |        |        | l        | j ⟨y⟩   | w      |         |
+| Approximant |        |        | l        | j       | w      |         |
 | Trill       |        |        | r        |         |        |         |
 
 #### Vowels
@@ -28,10 +28,10 @@ This chapter describes what sounds can be formed in this language.
 - Onset cannot contain ⟨'⟩ and ⟨ng⟩.
 - Onset that consists of purely stop can geminate. If so, the previous voice must be a vowel.
 - These are the only allowed complex onset. Note that "any stop" excludes ⟨'⟩.
-    - ⟨s⟩ + any stop,
-    - any stop + ⟨z⟩,
-    - any stop + any approximant,
-    - any stop + ⟨r⟩.
+    - ⟨s⟩ + any stop [sb, sd, sg],
+    - any stop + ⟨z⟩ [bz, dz, gz],
+    - any stop + any approximant [bw, dw, gw, bj, dj, gj],
+    - any stop + ⟨r⟩ [br, dr, gr].
 
 ## Morphology
 
