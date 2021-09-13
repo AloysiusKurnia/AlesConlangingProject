@@ -26,6 +26,7 @@ This chapter describes what sounds can be formed in this language.
 - The syllable structure is CCVC.
 - Coda can be any consonant.
 - Onset cannot contain ⟨'⟩ and ⟨ng⟩.
+- Onset that consists of purely stop can geminate. If so, the previous voice must be a vowel.
 - These are the only allowed complex onset. Note that "any stop" excludes ⟨'⟩.
     - ⟨s⟩ + any stop,
     - any stop + ⟨z⟩,
@@ -85,4 +86,4 @@ The North Wind and the Sun were disputing which was the stronger, when a travele
 
 **O' Za'e Gi'jo'e ir o' A'a'**
 
-O' za'e gi'jo'e ir o' a'a' dorimi' hag ê be'a'di, angza dro'imobe, ha'ga' dzi'zi godi orma nor, engi. E'gêr dimihimi' agi o' du hag i'du aniga nabegi o' ro'imobe waboe norzig zi'zi, joh igwar bea'di obe o' oboi. Zima o' za'e gi'jo'e bwiz higadi i' gu deng, dab angza du bwiz begadi, o' ro'imobe labu norzig zi'zi norsiba' be'a'di'en.
+Oh za'e gitjo'e ir oh a'ae dorimit hag ê be'addi, angza dro'imobe, haga' ormaj dzizi godi engi. Egêr dimihimit agi oh du hag i'du aniga nabegi oh ro'imobe waboe norzik zizi, joh igwaroj be'addi i' oh oboi. Zima oh za'e gitjo'e bwiz higadi i' gu deng, dap angza du bwiz begadi, oh ro'imobe labu norzik zizi norsiba be'addi'en.
