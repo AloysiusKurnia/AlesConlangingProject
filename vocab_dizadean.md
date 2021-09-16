@@ -424,14 +424,6 @@ Berikut beberapa konstruksi yang dapat menciptakan kata benda:
 
 ***
 
-## Copula
-
-Penanda bahwa dua benda adalah sama.
-
-| Positive (to be) | Negative (to not be) |
-|------------------|----------------------|
-| ê                | êng                  |
-
 ## Verbs
 Kata kerja.
 
@@ -439,8 +431,11 @@ Kata kerja.
 
 | English           | Dizadean |
 |-------------------|----------|
+| to be             | ê        |
+| to not be         | êng      |
 | to be able, can   | deng     |
 | to have to, shall | joh      |
+| to mean           |          |
 
 ### Sense, Mind, and Knowledge
 

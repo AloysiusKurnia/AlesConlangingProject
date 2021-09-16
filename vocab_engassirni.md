@@ -46,14 +46,16 @@ Kata ganti yang dapat menggantikan kata benda.
 ### Personal
 Untuk menggantikan orang/benda secara umum.
 
-| English    | Nominative | Genitive | Accusative | Dative |
-|------------|------------|----------|------------|--------|
-| I          | vil        | vlim     | xālt       | xalas  |
-| you (sg.)  | oth        | othom    | othlë      | othis  |
-| he/she/it  | kās        | kāna     | zë         | zejs   |
-| we         | mvujël     | mvujn    | xājlt      | xājlh  |
-| you (many) | ethlūn     | ethlunnu | othlāj     | othīs  |
-| they       | ajk        | ajkën    | ajlis      | ajsi   |
+| English                  | Nominative       | Genitive | Accusative | Dative |
+|--------------------------|------------------|----------|------------|--------|
+| I                        | vil              | vlim     | xālth      | xalas  |
+| you (sg.)                | oth              | othom    | othlë      | othis  |
+| he/she/it                | kās              | kāna     | zë         | zejs   |
+| we                       | mvujël           | mvujn    | xājlth     | xājlh  |
+| you (many)               | ethlūn           | ethlunnu | othlāj     | othīs  |
+| they                     | ajk              | ajkën    | ajlis      | ajsi   |
+| (untuk konstruksi pasif) | i/e (sebelum a-) | -        | ith        | is     |
+
 
 ### Demonstratives
 Untuk menggantikan benda sesuai dengan posisi. Pengunaan demonstrative determiner harus
@@ -106,17 +108,17 @@ Penunjuk seberapa banyak benda tersebut, atau seberapa banyak bagian benda terse
 ### Numbers
 Angka.
 
-| English |   |
-|---------|---|
-| other   |   |
-| zero    |   |
-| one     |   |
-| two     |   |
-| three   |   |
-| four    |   |
-| five    |   |
-| six     |   |
-| seven   |   |
+| English |       |
+|---------|-------|
+| zero    | gjori |
+| one     | rir   |
+| two     | mel   |
+| three   | rëx   |
+| four    | mëmel |
+| five    | maer  |
+| six     | merxë |
+| seven   | tīr   |
+| eight   | tre   |
 
 
 **TODO**: Bagaimana cara membentuk bilangan yang lebih besar?
@@ -166,7 +168,7 @@ Kata sifat.
 | dark          | ōndo       |
 | strong        | xerik      |
 | weak          | juwith     |
-| different     |            |
+| different     | kaje       |
 | same, similar |            |
 | next          |            |
 | hard          |            |
@@ -237,7 +239,7 @@ Kata benda.
 | mother          | mēj   | mējn   | mējs  | māe   | māen   | māes  |
 | father          | jo    | jon    | jōz   | jaw   | jawn   | jāwz  |
 | name            | tagh  | taghn  | tāghz | tāgh  | tāghn  | tāghz |
-| friend          |       |        |       |       |        |       |
+| friend          | anni  | annin  | annīs | āni   | ānin   | ānīs  |
 
 ### Creatures
 
@@ -246,7 +248,7 @@ Kata benda.
 | animal           | krowi   | krowin    | krōwis   | krawi   | krawin    | krāwis   |
 | fish             | gluj    | glujn     | glūjs    | gloj    | glojn     | glōjs    |
 | bird             | twif    | twimvë    | twīf     | twef    | twemvë    | twēf     |
-| dog              | drojk   | droyng    | droyx    | drajk   | drayng    | drayx    |
+| dog              | drojk   | droyng    | drōyx    | drajk   | drayng    | drayx    |
 | louse            |         |           |          |         |           |          |
 | snake            | issi    | issin     | īssi     | esse    | essen     | ēssë     |
 | worm             | lū      | lūn       | lūs      | lōw     | lōwn      | lōws     |
@@ -298,66 +300,50 @@ Kata benda.
 
 ### Celestial and Environmental
 
-| English     | S Nom | S Nom | S Obj | P Nom | P Nom | P Obj |
-|-------------|-------|-------|-------|-------|-------|-------|
-| sun         |       |       |       |       |       |       |
-| moon        |       |       |       |       |       |       |
-| star        |       |       |       |       |       |       |
-| water       |       |       |       |       |       |       |
-| rain        |       |       |       |       |       |       |
-| river       |       |       |       |       |       |       |
-| lake        |       |       |       |       |       |       |
-| sea         |       |       |       |       |       |       |
-| salt        |       |       |       |       |       |       |
-| stone, rock |       |       |       |       |       |       |
-| sand        |       |       |       |       |       |       |
-| dust        |       |       |       |       |       |       |
-| earth       |       |       |       |       |       |       |
-| cloud       |       |       |       |       |       |       |
-| fog         |       |       |       |       |       |       |
-| sky         |       |       |       |       |       |       |
-| wind        |       |       |       |       |       |       |
-| snow        |       |       |       |       |       |       |
-| ice         |       |       |       |       |       |       |
-| smoke       |       |       |       |       |       |       |
-| fire        |       |       |       |       |       |       |
-| ash         |       |       |       |       |       |       |
-| road        |       |       |       |       |       |       |
-| mountain    |       |       |       |       |       |       |
+| English     | S Nom | S Gen   | S Obj | P Nom | P Gen    | P Obj |
+|-------------|-------|---------|-------|-------|----------|-------|
+| sun         | xaj   | xajn    | xājs  | xāj   | xājn     | xājs  |
+| moon        | lhom  | lhommën | lhōz  | lhawm | lhawmmën | lhāwz |
+| star        |       |         |       |       |          |       |
+| water       |       |         |       |       |          |       |
+| rain        |       |         |       |       |          |       |
+| river       |       |         |       |       |          |       |
+| lake        |       |         |       |       |          |       |
+| sea         |       |         |       |       |          |       |
+| salt        |       |         |       |       |          |       |
+| stone, rock |       |         |       |       |          |       |
+| sand        |       |         |       |       |          |       |
+| dust        |       |         |       |       |          |       |
+| earth       |       |         |       |       |          |       |
+| cloud       |       |         |       |       |          |       |
+| fog         |       |         |       |       |          |       |
+| sky         |       |         |       |       |          |       |
+| wind        |       |         |       |       |          |       |
+| snow        |       |         |       |       |          |       |
+| ice         |       |         |       |       |          |       |
+| smoke       |       |         |       |       |          |       |
+| fire        |       |         |       |       |          |       |
+| ash         |       |         |       |       |          |       |
+| road        |       |         |       |       |          |       |
+| mountain    |       |         |       |       |          |       |
 
 ### Space and Time
 
-| English     | S Nom | S Nom | S Obj | P Nom | P Nom | P Obj |
-|-------------|-------|-------|-------|-------|-------|-------|
-| place       |       |       |       |       |       |       |
-| south       |       |       |       |       |       |       |
-| north       |       |       |       |       |       |       |
-| west        |       |       |       |       |       |       |
-| east        |       |       |       |       |       |       |
-| night       |       |       |       |       |       |       |
-| day         |       |       |       |       |       |       |
-| month       |       |       |       |       |       |       |
-| year        |       |       |       |       |       |       |
-| 1st quarter |       |       |       |       |       |       |
-| 2nd quarter |       |       |       |       |       |       |
-| 3rd quarter |       |       |       |       |       |       |
-| 4th quarter |       |       |       |       |       |       |
-| spring      |       |       |       |       |       |       |
-| summer      |       |       |       |       |       |       |
-| autumn      |       |       |       |       |       |       |
-| winter      |       |       |       |       |       |       |
-| January     |       |       |       |       |       |       |
-| February    |       |       |       |       |       |       |
-| March       |       |       |       |       |       |       |
-| April       |       |       |       |       |       |       |
-| May         |       |       |       |       |       |       |
-| Jun         |       |       |       |       |       |       |
-| July        |       |       |       |       |       |       |
-| August      |       |       |       |       |       |       |
-| September   |       |       |       |       |       |       |
-| October     |       |       |       |       |       |       |
-| November    |       |       |       |       |       |       |
-| December    |       |       |       |       |       |       |
+| English | S Nom | S Gen  | S Obj | P Nom | P Gen  | P Obj |
+|---------|-------|--------|-------|-------|--------|-------|
+| place   |       |        |       |       |        |       |
+| south   |       |        |       |       |        |       |
+| north   |       |        |       |       |        |       |
+| west    |       |        |       |       |        |       |
+| east    |       |        |       |       |        |       |
+| night   |       |        |       |       |        |       |
+| day     | pigh  | pighng | pīgx  | pegh  | peghng | pējx  |
+| month   |       |        |       |       |        |       |
+| year    |       |        |       |       |        |       |
+| spring  |       |        |       |       |        |       |
+| summer  |       |        |       |       |        |       |
+| autumn  |       |        |       |       |        |       |
+| winter  |       |        |       |       |        |       |
 
 ### Tools
 
@@ -382,157 +368,161 @@ Berikut beberapa konstruksi yang dapat menciptakan kata benda:
 | Type                 | English         | S Nom       | S Gen | S Obj | P Nom | P Gen | P Obj |
 |----------------------|-----------------|-------------|-------|-------|-------|-------|-------|
 | Agent noun (v)       | _verb_-er       |             |       |       |       |       |       |
-| Gerund noun (v)      | _verb_-ing      | -u (Part.)  | -un   | -ūz   | -ow   | -on   | -ōz   |
+| Gerund noun (v)      | _verb_-ing      | Part + -u   | -un   | -ūz   | -ow   | -on   | -ōz   |
 | State of being (adj) | _adj_-ness      |             |       |       |       |       |       |
 | Collective noun (n)  | group of _noun_ | P Nom + -i  | -in   | -īs   | -e    | -en   | -ēs   |
 | Diminutive (n)       | _noun_-ling     |             |       |       |       |       |       |
 | Carrier (n)          | _noun_-bearing  | S Obj + -ir | -irni | -īsiz | -eris | -ernë | -ērez |
 
-
 ***
-
 
 ## Verbs
 Kata kerja.
 
 ### Modal and Copula
 
-| English           | Basic | Past | Future | Participle |
-|-------------------|-------|------|--------|------------|
-| to be             | vi    | tëve | de     | xu         |
-| to be able, can   |       |      |        |            |
-| to have to, shall |       |      |        |            |
+| English           | Basic | Perfect | Future | Participle | Note                                |
+|-------------------|-------|---------|--------|------------|-------------------------------------|
+| to be             | -     | -       | -      | -          | Pakai ivi (to make), lihat catatan. |
+| to have           | -     | -       | -      | -          | Pakai ivi (to make), lihat catatan. |
+| to be able, can   | māvi  | māthve  | made   | māxu       | -                                   |
+| to have to, shall | tubi  | tudde   | tude   | tovu       | -                                   |
+| to mean           |       |         |        |            |                                     |
+
+To be dapat dibentuk menggunakan ivi di posisi accusative dan dative.  
+> I am your friend → "Someone make me your friend." → _E xālth ivi annīs othom._
+
+To have dapat dibentuk menggunakan ivi dengan genitive di posisi dative, beserta accusative.  
+> I have a friend → "Someone make a friend mine." → _E annīs ivi vlim._
 
 ### Sense, Mind, and Knowledge
 
-| English  | Basic | Past | Future | Participle |
-|----------|-------|------|--------|------------|
-| to see   |       |      |        |            |
-| to hear  |       |      |        |            |
-| to know  |       |      |        |            |
-| to think |       |      |        |            |
-| to smell |       |      |        |            |
-| to fear  |       |      |        |            |
-| to count |       |      |        |            |
-| to love  |       |      |        |            |
-| to think |       |      |        |            |
+| English  | Basic | Perfect | Future | Participle | Takes |
+|----------|-------|---------|--------|------------|-------|
+| to see   | kevi  | kethve  | kede   | kessu      | dat   |
+| to hear  | ruvvi | ruthve  | rude   | ruxu       | acc   |
+| to know  |       |         |        |            |       |
+| to think |       |         |        |            |       |
+| to smell |       |         |        |            |       |
+| to fear  |       |         |        |            |       |
+| to count |       |         |        |            |       |
+| to love  |       |         |        |            |       |
+| to think |       |         |        |            |       |
 
 ### Motion
 
-| English  | Basic | Past | Future | Participle |
-|----------|-------|------|--------|------------|
-| to come  |       |      |        |            |
-| to go    |       |      |        |            |
-| to dig   |       |      |        |            |
-| to swim  |       |      |        |            |
-| to fly   |       |      |        |            |
-| to walk  |       |      |        |            |
-| to fall  |       |      |        |            |
-| to throw |       |      |        |            |
-| to float |       |      |        |            |
-| to flow  |       |      |        |            |
+| English             | Basic  | Perfect | Future | Participle | Takes |
+|---------------------|--------|---------|--------|------------|-------|
+| to come (from)      | kavi   | kathve  | kade   | kaxu       | acc   |
+| to go (to)          | ūwi    | ūtwe    | ūde    | ūxu        | dat   |
+| to dig              | dōvi   | dōthve  | dōde   | dōxu       | acc   |
+| to swim (in)        | zwovi  | stwove  | zwode  | zwoxu      | acc   |
+| to fly              | slefi  | stlefe  | slede  | slessu     | -     |
+| to walk (with)      | mothvi | motove  | modde  | mossu      | acc   |
+| to fall (to)        | faui   | fatuve  | faude  | fawxu      | dat   |
+| to throw (with, to) | travvi | trathve | trade  | traxu      | ditr  |
+| to float            |        |         |        |            |       |
+| to flow             |        |         |        |            |       |
 
 ### Physical Activity
 
-| English    | Basic  | Past   | Future | Participle |
-|------------|--------|--------|--------|------------|
-| to drink   |        |        |        |            |
-| to eat     | aovi   | atove  | aode   | aoxu       |
-| to bite    | githvi | gitive | gide   | gissu      |
-| to suck    |        |        |        |            |
-| to spit    |        |        |        |            |
-| to vomit   |        |        |        |            |
-| to blow    |        |        |        |            |
-| to breathe |        |        |        |            |
-| to laugh   |        |        |        |            |
-| to cry     |        |        |        |            |
-| to fight   |        |        |        |            |
-| to hunt    |        |        |        |            |
-| to hit     |        |        |        |            |
-| to stab    |        |        |        |            |
-| to give    |        |        |        |            |
-| to hold    |        |        |        |            |
-| to squeeze |        |        |        |            |
-| to hug     |        |        |        |            |
-| to rub     |        |        |        |            |
-| to wash    |        |        |        |            |
-| to wipe    |        |        |        |            |
-| to sew     |        |        |        |            |
-| to say     |        |        |        |            |
-| to sing    |        |        |        |            |
-| to bless   |        |        |        |            |
-| to play    |        |        |        |            |
+| English     | Basic  | Perfect | Future | Participle | Takes |
+|-------------|--------|---------|--------|------------|-------|
+| to say (to) | newwi  | netwe   | newde  | neju       | ditr  |
+| to drink    |        |         |        |            |       |
+| to eat      | aovi   | atove   | aode   | aoxu       | dat   |
+| to feed     | aovi   | atove   | aode   | aoxu       | ditr  |
+| to bite     | githvi | githve  | gide   | gissu      | dat   |
+| to suck     |        |         |        |            |       |
+| to spit     |        |         |        |            |       |
+| to vomit    |        |         |        |            |       |
+| to blow     |        |         |        |            |       |
+| to breathe  |        |         |        |            |       |
+| to laugh    |        |         |        |            |       |
+| to cry      |        |         |        |            |       |
+| to fight    |        |         |        |            |       |
+| to hunt     |        |         |        |            |       |
+| to hit      |        |         |        |            |       |
+| to stab     |        |         |        |            |       |
+| to give     |        |         |        |            |       |
+| to hold     |        |         |        |            |       |
+| to squeeze  |        |         |        |            |       |
+| to hug      |        |         |        |            |       |
+| to rub      |        |         |        |            |       |
+| to wash     |        |         |        |            |       |
+| to wipe     |        |         |        |            |       |
+| to sew      |        |         |        |            |       |
+| to sing     |        |         |        |            |       |
+| to bless    |        |         |        |            |       |
+| to play     |        |         |        |            |       |
 
 ### Change of State of Oneself
 Verb yang ada di list ini ini hampir selalu tidak punya objek (intransitif).
 
-| English                | Basic | Past | Future | Participle |
-|------------------------|-------|------|--------|------------|
-| to sleep               |       |      |        |            |
-| to live                |       |      |        |            |
-| to die                 |       |      |        |            |
-| to lie (as in a bed)   |       |      |        |            |
-| to sit                 |       |      |        |            |
-| to stand               |       |      |        |            |
-| to turn (intransitive) |       |      |        |            |
-| to shine               |       |      |        |            |
-| to freeze              |       |      |        |            |
-| to swell               |       |      |        |            |
-| to take off/undress    |       |      |        |            |
-| to succeed             |       |      |        |            |
-| to fail                |       |      |        |            |
+| English                | Basic | Perfect | Future | Participle |
+|------------------------|-------|---------|--------|------------|
+| to sleep               |       |         |        |            |
+| to live                |       |         |        |            |
+| to die                 |       |         |        |            |
+| to lie (as in a bed)   |       |         |        |            |
+| to sit                 |       |         |        |            |
+| to stand               |       |         |        |            |
+| to turn (intransitive) |       |         |        |            |
+| to shine               |       |         |        |            |
+| to freeze              |       |         |        |            |
+| to swell               |       |         |        |            |
+| to take off/undress    |       |         |        |            |
+| to succeed             |       |         |        |            |
+| to fail                |       |         |        |            |
 
 ### Change of State of Others
 Verb yang ada di list ini hampir selalu punya objek (transitif). Banyak diantara mereka mempunyai bentuk medial voice.
 
-| English    | Basic | Past | Future | Participle |
-|------------|-------|------|--------|------------|
-| to kill    |       |      |        |            |
-| to cut     |       |      |        |            |
-| to burn    |       |      |        |            |
-| to split   |       |      |        |            |
-| to scratch |       |      |        |            |
-| to pull    |       |      |        |            |
-| to push    |       |      |        |            |
-| to tie     |       |      |        |            |
-| to fold    |       |      |        |            |
-| to make    |       |      |        |            |
-| to destroy |       |      |        |            |
-| to wrap    |       |      |        |            |
-| to raise   |       |      |        |            |
+| English    | Basic | Perfect | Future | Participle | Takes        |
+|------------|-------|---------|--------|------------|--------------|
+| to kill    |       |         |        |            |              |
+| to cut     |       |         |        |            |              |
+| to burn    |       |         |        |            |              |
+| to split   |       |         |        |            |              |
+| to scratch |       |         |        |            |              |
+| to pull    |       |         |        |            |              |
+| to push    |       |         |        |            |              |
+| to tie     |       |         |        |            |              |
+| to fold    |       |         |        |            |              |
+| to make    | ivi   | tive    | ide    | izu        | ditransitive |
+| to destroy |       |         |        |            |              |
+| to wrap    |       |         |        |            |              |
+| to raise   |       |         |        |            |              |
 
 ### Grammar dengan kata kerja
 Berikut adalah tabel konjugasi kata kerja dengan aovi (dia makan) sebagai contoh.
 
-| Modes            | 1S            | 1P             | 2S              | 2P             | 3            |
-|------------------|---------------|----------------|-----------------|----------------|--------------|
-| Simple Act.      | aov**a**      | aov**as**      | aov**oth**      | aov**otë**     | aov**i**     |
-| Simple Pas.      | atov**ena**   | atov**enas**   | atov**enoth**   | atov**entë**   | atov**en**   |
-| Future Act.      | aod**ea**     | aod**ās**      | aod**os**       | aod**es**      | aod**e**     |
-| Future Pas.      | aov**vēas**   | ←              | aov**vēnos**    | ←              | aov**vensë** |
-| Perfect Act.     | atov**ea**    | atov**as**     | atov**eth**     | atov**otë**    | atov**e**    |
-| Perfect Pas.     | atov**oten**  | atov**otez**   | atov**otne**    | atov**ēz**     | atov**en**   |
-| Imperfect Act.   | aov**enga**   | aov**enges**   | aov**engoth**   | aov**engēz**   | aov**engi**  |
-| Imperfect Pas.   | aov**entera** | aov**entëres** | aov**entëroth** | aov**entërēz** | aov**ente**  |
-| Subjunctive Act. | aod**ir**     | ←              | aod**orith**    | ←              | aod**dor**   |
-| Subjunctive Pas. | atov**oten**  | ←              | atov**otne**    | ←              | atov**en**   |
+| Modes        | 1S         | 1P          | 2S           | 2P           | 3           |
+|--------------|------------|-------------|--------------|--------------|-------------|
+| Simple       | aov**a**   | aov**as**   | aov**oth**   | aov**oje**   | aov**i**    |
+| Future       | aod**es**  | aod**ās**   | aod**os**    | aod**es**    | aod**e**    |
+| Perfect      | atov**a**  | atov**as**  | atov**oth**  | atov**oje**  | atov**e**   |
+| Imperfective | aov**ena** | aov**enes** | aov**enoth** | aov**enjēz** | aov**enji** |
+| Subjunctive  | aod**ir**  | aod**iris** | aod**orith** | aod**oris**  | aod**dor**  |
 
 Mode berikut tidak dikonjugasi berdasarkan orang.
 
-| Modes      | Active    | Passive     |
-|------------|-----------|-------------|
-| Imperative | aov**vo** | aod**do**   |
-| Infinitive | aox**wo** | aox**weno** |
-| Participle | aox**u**  | aox**eru**  |
+| Modes      |           |
+|------------|-----------|
+| Imperative | aov**vo** |
+| Infinitive | aox**wo** |
+| Participle | aox**u**  |
+
+Passive voice construction dilakukan menggunakan dummy noun.
+
 
 ### Konstruksi yang membuat kata kerja
 Berikut beberapa konstruksi yang dapat menciptakan kata kerja:
 
-**Denominative**: (Dari adjective/noun) Menandakan kejadian penjadian suatu sifat. Contoh: "membiru", "memanas".
-
-| English             | Basic | Past     | Future | Participle |
-|---------------------|-------|----------|--------|------------|
-| _adj_-en, _adj_-ify | -vi   | -(e)thvi | -de    | -se        |
+| Name         | English             | Basic                    | Perfect  | Future | Participle |
+|--------------|---------------------|--------------------------|----------|--------|------------|
+| Denominative | _adj_-en, _adj_-ify | -vi                      | -(e)thvi | -de    | -se        |
+| Inversion    | un-_adj_            | Root + -(k/g/ng/x/gh)iva | -kithvi  | -kide  | -kise      |
 
 ***
 
@@ -544,17 +534,18 @@ Penggunaan:
 - Jika menandakan gerakan di, gunakan accusative
 - Jika menandakan gerakan dari, gunakan voth + prep + dative
 
-| English            | Engassirni      |
-|--------------------|-----------------|
-| of                 | (+genitive)     |
-| at (place)         | ko              |
-| at (time)          | keph            |
-| on/before (time)   | than            |
-| under/after (time) | zej             |
-| in                 | ang             |
-| outside            | swaj            |
-| from               | voth (+dative)  |
-| with               | sta (+genitive) |
+| English            | Engassirni         |
+|--------------------|--------------------|
+| of                 | (+genitive)        |
+| at (place)         | ko                 |
+| at (time)          | keph               |
+| on/before (time)   | than               |
+| under/after (time) | zej                |
+| in                 | ang                |
+| outside            | swaj               |
+| from               | voth (+dative)     |
+| with               | sta (+genitive)    |
+| by                 | voth (+accusative) |
 
 ***
 

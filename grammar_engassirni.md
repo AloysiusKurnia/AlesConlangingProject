@@ -55,7 +55,7 @@ This chapter describes how words are formed from their smaller unit (morpheme).
 - Noun declines by case and number.  
   Genitive case usually ends with nasal, objective case has longer vowel and usually ends with fricative, and plural is indicated by retracting the vowel.
 - Adjective does not decline to the noun.
-- Verbs are conjugated by tense, that is, past "da-" and future "go-"
+- Verbs are conjugated by tense, but not aspect.
 
 ## Syntax
 
@@ -63,8 +63,8 @@ This chapter describes how sentences are formed to create a meaning.
 
 - Subject accusative verb dative word order. Some verbs takes the dative and some takes the accusative.
 - Determiner comes before the noun, 
-- This language uses postposition.
-- Adpositions comes after the noun. Adpositional phrase also comes after the noun.
+- This language uses prepositions.
+- Prepositional phrase comes after the noun.
 
 ## Lexicon
 Some sample words.

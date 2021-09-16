@@ -1,0 +1,411 @@
+==== Pronouns =================================================================
+Personal
+    I: a'
+    you (sg.): de
+    he/she: nor
+    it: gu
+    we (few): zo'u
+    you (few): do'ba
+    they (few): eger
+    they (few inanim.): egêr
+    we: zo'u
+    you (many): ikzi
+    they: eger
+    they (inanim.): egêr
+
+Demonstratives
+    this: gi
+    that: gaz
+    here: dio
+    there: ode
+
+==== Question markers =========================================================
+    who (anim.): haga'
+    which (inan.): hak
+    what: beda
+    where: ozage
+    when: angza
+    how: doja
+    how many: oben
+
+==== Determiner ===============================================================
+Particle
+    the: oh
+    a: du, d-
+
+Quantity
+    no: ro
+    all: at
+    many: hi'
+    some: du'i
+    few: mi
+
+Numbers
+    other: oboi
+    zero: no
+    one: du
+    two: hwa
+    three: gigi
+    four: nezi
+    five: odo
+    six: de'or
+    seven: hibe
+    eight: gang
+    nine: mega
+
+Constructions
+    Ordinal (-th): i'-
+    Adverbial (times): -me*)
+    once: dudu
+
+==== Adjectives ===============================================================
+    big: ezar
+    long: reda
+    wide: gi'za
+    thick: edêt
+    heavy: dogga
+    light (in weight): zadin
+    small: 
+    short: ikzi
+    narrow: notbi
+    thin: moga
+    warm: godi
+    cold: ajan
+    full: izae
+    empty: gozae
+    new: gimo
+    young: hio
+    old: ubi
+    good: azodi
+    bad: ezik
+    rotten: 
+    dirty: 
+    straight: 
+    round: 
+    sharp (as a knife): wangze
+    dull (as a knife): dojmi
+    smooth: 
+    wet: midap
+    dry: e'etgo
+    correct: iga
+    wrong: mabe
+    bright: gozedê
+    dark: gozeno
+    strong: atdi
+    weak: itmiê
+    different: doro
+    same, similar: dimi
+    next: zima
+    hard: gadi
+    soft: elja
+
+Colors
+    red: atbo
+    green: udoze
+    blue: oze
+    pink: ozabo
+    yellow: udi
+    white: izoe
+    black: eda
+
+Position
+    near: miga
+    far: odiz
+    right: iga
+    left: o'bad
+
+Adjective grammar
+    comparative (more _adj_, _adj_-er): be-_adj_
+    superlative (most _adj_, _adj_-est): bebê-_adj_
+
+Comparative construct
+    more ... than: be- i'
+    as ... as: hi- i'
+    less ... than: se- i'
+
+Adjective-forming suffix
+    possessive adjective (noun-ed): 
+    negation (in-adj): 
+
+==== Nouns ====================================================================
+Human Being
+    woman: zumi
+    girl: zia
+    teen girl: azudi
+    adult woman: zub
+    elderly woman: zubi
+    man (male): goze
+    boy: gio
+    teen boy: godi
+    teenhood: adodi
+    adult man: gub
+    elderly man: gubi
+    man/human being: ha'geo
+    child: zeli
+    wife: zumemi
+    husband: gozemi
+    mother: maja
+    father: ba'a
+    name: dama
+    friend: dizadea
+
+Creatures
+    animal: a'gedo
+    fish: 
+    bird: 
+    dog: 
+    louse: 
+    snake: 
+    worm: 
+    tree: 
+    forest: 
+    stick: 
+    fruit: 
+    seed: 
+    leaf: 
+    root: 
+    bark (of a tree): 
+    flower: 
+    grass: 
+
+Parts of a Body
+    skin: 
+    meat: 
+    blood: 
+    bone: 
+    fat (noun): 
+    egg: 
+    horn: 
+    tail: 
+    feather: 
+    hair: 
+    head: 
+    ear: 
+    eye: 
+    nose: 
+    mouth: 
+    tooth: 
+    tongue (organ): laeli
+    fingernail: 
+    foot: 
+    leg: 
+    knee: 
+    hand: 
+    wing: 
+    belly: 
+    guts: 
+    neck: 
+    back: 
+    breast: 
+    heart: 
+    liver: 
+
+Celestial and Environmental
+    sun: a'ae
+    moon: eda
+    star: na'mê
+    water: die
+    rain: 
+    river: 
+    lake: 
+    sea: 
+    salt: 
+    stone, rock: boa
+    sand: 
+    dust: gi'se
+    earth: do'o
+    cloud: 
+    fog: 
+    sky: 
+    wind: za'e
+    snow: de'ar
+    ice: deagza
+    smoke: 
+    fire: lazi
+    ash: 
+    road: 
+    mountain: 
+
+Space and Time
+    place: oza
+    south: deba'e
+    north: gitjo'e
+    west: roza
+    east: juza
+    night: edagê
+    day: a'a'goz
+    month: edeba
+    year: 
+    1st quarter: gimole
+    2nd quarter: halgebi
+    3rd quarter: di'anade
+    4th quarter: a'domadi
+    spring: nimadegin (season of raising )
+    summer: nima'ae (season of the sun )
+    autumn: nima'orod (season of cutting )
+    winter: nimadea (season of coldness)
+    January: Io'deba (month of ... )
+    February: Dado'deba (month of ... )
+    March: Lu'deba (month of ... )
+    April: Êzdudeba (month of ... )
+    May: Ganadeba (month of ... )
+    Jun: Ju'updeba (month of ... )
+    July: Omêdeba (month of ... )
+    August: Mêrdeba (month of ... )
+    September: Aziodeba (month of ... )
+    October: Alzadeba (month of ... )
+    November: Esirwain (before December )
+    December: Esirin
+
+Tools
+    knife: 
+    axe: 
+    hammer: 
+    rope: 
+    spear: 
+    house: 
+    door: 
+    boat: damgo
+    chariot/car: 
+    road: 
+    cover/cloak: zizi
+
+Noun construction
+    Agent noun (verb-er): ro-
+    Gerund noun (verb-ing): o-()-be
+    State of being (adj-ness): so-
+
+==== Verbs ====================================================================
+Modal
+    to be: ê
+    to not be: êng
+    to be able, can: deng
+    to have to, shall: joh
+    to mean: 
+
+Sense, Mind, and Knowledge
+    to see: da'
+    to hear: 
+    to know: 
+    to think: 
+    to smell: 
+    to fear: 
+    to count: 
+    to love: a'una
+    to think: 
+    to agree: dimihimit (Same thinking )
+    to dispute/debate: dorimit (Different thinking)
+    to consider: igwar
+    Motion
+    to come: engi
+    to go: 
+    to dig: 
+    to swim: 
+    to fly: 
+    to walk: imobe
+    to fall: 
+    to throw: 
+    to float: 
+    to flow: 
+
+Physical Activity
+    to drink: 
+    to eat: 
+    to bite: 
+    to suck: 
+    to spit: 
+    to vomit: 
+    to blow: 
+    to breathe: 
+    to laugh: 
+    to cry: 
+    to fight: 
+    to hunt: 
+    to hit: 
+    to stab: 
+    to give: lago
+    to hold: 
+    to squeeze: 
+    to hug: dagea
+    to rub: 
+    to wash: 
+    to wipe: 
+    to sew: 
+    to say: 
+    to sing: 
+    to bless: mo'le
+    to play: 
+
+Change of State of Oneself
+    to sleep: 
+    to live: 
+    to die: 
+    to lie (as in a bed): 
+    to sit: irê
+    to stand: 
+    to turn (intransitive): 
+    to shine: gozdea
+    to freeze: 
+    to swell: 
+    to take off/undress: waboe
+    to succeed: aniga
+    to fail: 
+
+Change of State of Others
+    to kill: 
+    to cut: o'rod
+    to burn: 
+    to split: 
+    to scratch: 
+    to pull: 
+    to push: 
+    to tie: 
+    to fold: labu
+    to make: nabe
+    to destroy: i'igo
+    to wrap: orma
+    to raise: deginu
+
+Grammar
+    Present tense: (no prefix)
+    Past tense: da-
+    Future tense: go-
+    Active voice: (no prefix)
+    Passive voice -(o)j, (elide final -i)
+
+Noun forming construction
+    Denominative (verb-en, verb-ify): d(V)- (follows nearest vowel)
+
+==== Adposition ===============================================================
+    of: -zik
+    at: 
+    on: -aze
+    below: -boz
+    in: -gi
+    around: -siba
+    before: -wai
+    after: 
+    with: -en
+    without: -rop
+
+==== Conjunctions =============================================================
+    and: ir
+    or: nier
+    if: obe
+    that: agi
+    then: zima
+    than, as (comparative conjunction): i'
+    but: dap
+
+==== Conversational phrases ===================================================
+    Welcome!: 
+    Hello!: 
+    Good (time of the day)!: 
+    Goodbye!: 
+    Good luck!: 
+    Yes: 
+    No: 
+    Sorry.: 
+    Please.: 
+    Thank you!: A'doma!
+    (Reply to "thank you"): 
