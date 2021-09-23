@@ -6,8 +6,8 @@ Personal
     it: gu
     we (few): zo'u
     you (few): do'ba
-    they (few): eger
-    they (few inanim.): egêr
+    they (few):  ongor
+    they (few inanim.): dêdu 
     we: zo'u
     you (many): ikzi
     they: eger
@@ -223,7 +223,6 @@ Celestial and Environmental
     smoke: 
     fire: lazi
     ash: 
-    road: 
     mountain: 
 
 Space and Time
@@ -292,7 +291,6 @@ Sense, Mind, and Knowledge
     to fear: 
     to count: 
     to love: a'una
-    to think: 
     to agree: dimihimit (Same thinking )
     to dispute/debate: dorimit (Different thinking)
     to consider: igwar
